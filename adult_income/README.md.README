@@ -1,0 +1,12 @@
+Almutwakel Hassan
+Adult Income - Learning Model: Abstract
+12/15/2019
+
+This Machine Learning project uses the K-nearest-neighbors algorithm to predict whether or not an adult falls within
+income levels of less than $50K or greater than $50K using specific demographic information. Through experimentation,
+it was determined that the best data to use for this prediction would be age, education level, marital status, work
+sector, family size, race, sex, yearly capital gains, and yearly capital losses. Using 20% of a census data file, a
+model was created that was ultimately found to correctly predict a person's income level approximately 86.8% of the
+time. Earlier in the development of this project, I made the mistake of using Linear Regression to model the data.
+This was not able to classify the data and had an extremely low accuracy rate. This mistake has been fixed, and the
+model now works properly.
